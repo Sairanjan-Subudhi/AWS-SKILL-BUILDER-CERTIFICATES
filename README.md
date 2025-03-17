@@ -1,3 +1,3 @@
 # AWS-SKILL-BUILDER-CERTIFICATES
 
-This Repo contains all the CErtificates from AWS Skilll Builder
+This Repository contains all the Certificates from AWS Skilll Builder Academy 
